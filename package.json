@@ -1,0 +1,24 @@
+{
+  "name": "bootstrap-5",
+  "version": "1.0.0",
+  "description": "Proyecto de estudio de Bootstrap 5",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eduardotp77/bootstrap5.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "aprendizaje",
+    "ejercicios"
+  ],
+  "author": "Eduardo Tobacia - @eduardotp77",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eduardotp77/bootstrap5/issues"
+  },
+  "homepage": "https://github.com/eduardotp77/bootstrap5#readme"
+}
